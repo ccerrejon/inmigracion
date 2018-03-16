@@ -1,53 +1,63 @@
 img {
-  margin-left: 70px;
+  margin-left: 220px;
 
 }
 
-h3 {
+h4 {
   font-family: sans-serif;
   font-size: 12px;
   font-style: italic;
-  margin-left: 120px;
+  margin-left: 295px;
+  }
+  h2{
+
+    font-family: sans-serif;
+    margin-left: 70px;
+    margin-right: 300;
   }
 
 .rrss {
 
-margin-left: 50px;
+margin-left: 75px;
 }
 ul {
-  margin-left: 100px;
+  margin-left: 280px;
 }
 
 .mapa-salidas-llegadas{
-margin-left: 120px;
+margin-left: 300px;
+margin-right: 70px;
 }
 .muertes {
-  margin-left:320px;
+  margin-left:300px;
+  margin-right: 350px;
   width: 650px;
   height: 60px,
 }
 
 .tableauaños{
-margin-left: 320px;
+margin-left: 300px;
   width: 650px;
   height: 60px,
-
+margin-right: 350px;
 
 }
 .tableaumeses{
-margin-left: 320px;
+margin-left: 300px;
   width: 650px;
   height: 60px,
+  margin-right: 350px;
 
 }
 .timeline{
-margin-left: 120px;
+margin-left: 300px;
+margin-right: 70px;
 }
-p, h2 {
+p, h3 {
 font-family: sans-serif;
 font-size: 16px;
 font-style: normal;
-margin-left: 130px;
-margin-right: 170px;
+margin-left: 300px;
+margin-right: 350px;
 
 }
